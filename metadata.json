@@ -1,0 +1,5 @@
+{
+  "name": "Assessment Feedback UI",
+  "description": "A replica of the HackerEarth submission feedback interface with functional form elements and AI-powered feedback analysis.",
+  "requestFramePermissions": []
+}
